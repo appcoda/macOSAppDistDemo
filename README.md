@@ -1,6 +1,6 @@
 # Beyond the Sandbox: Signing and distributing macOS apps outside of the Mac App Store
 
-* This is a demo app used in our macOS app distribution tutorial. *
+*This is a demo app used in our macOS app distribution tutorial.*
 
 Since the advent of OS X Mojave and especially Catalina and the requirement for app notarization, some of us old-time macOS developers are concerned that Apple will pull the plug on the apps that we distribute ourselves. Many of you have downloaded and installed macOS software directly from websites, i.e., not from the Mac App Store. Have you ever really considered it?
 
